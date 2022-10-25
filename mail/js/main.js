@@ -7,7 +7,7 @@ if(emails.indexOf(email) !== -1)
 {  
         alert("Yes, the value exists!")  
 }   
-else  
+else 
 {  
         alert("No, the value is absent.")  
 }

@@ -12,3 +12,8 @@ if (user>cpu){
     console.log("mi dispiace ha vinto la cpu!!")
     alert("mi dispiace ha vinto la cpu")
 }
+else {
+    alert("Pareggio");
+    console.log("pareggio");
+
+}
