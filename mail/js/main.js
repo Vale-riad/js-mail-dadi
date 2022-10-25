@@ -3,7 +3,7 @@ const emails = ["vale.riad.91@gmail.com" , "valentina-riad-91@gmail.com", "vale-
 
 const email = prompt("Inserisci la tua e-mail");
 
-if(emails.indexOf("email") !== 0)  
+if(emails.indexOf(email) !== -1)  
 {  
         alert("Yes, the value exists!")  
 }   
